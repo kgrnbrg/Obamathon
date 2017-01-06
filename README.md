@@ -19,6 +19,7 @@ https://www.eventbrite.com/e/obamathon-tickets-30256812942
 * [@POTUS Twitter archive](https://www.whitehouse.gov/sites/default/files/POTUS111716.zip)
 * [@FLOTUS Twitter archive](https://www.whitehouse.gov/sites/default/files/FLOTUS111716.zip)
 * [Obama GIPHY collection](http://giphy.com/obama)
+* [Trump Tweets](https://drive.google.com/drive/folders/0B6-bRV-ejRJATUhvdVJEc1dNTXM?usp=sharing)
 
 ## Other Data
 * We've added some additional community contributed [datasets here in this repo](https://github.com/ITPNYU/Obamathon/tree/master/data).
